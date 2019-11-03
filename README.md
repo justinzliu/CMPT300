@@ -7,14 +7,17 @@ This course aims to give the student an understanding of what a modern operating
 ### Ferry
 
 Program that allowed the practice of multithreading managment through multiple interwoven threads that require the use of semaphores and mutexes to adhere to a strict expected output to terminal.
+
 Compile with: gcc -Wall -o x ferrythread.c -lpthread -lrt
 
 ### Smaug
 
-Program that allowed the practice of multi-process managment through multiple interacting processes through the use of shared memory. This project required the use of semaphores, mutexes, and shared memory to adhere to a strict expected output to terminal.
+Program that allowed the practice of multi-process managment with multiple interacting processes through the use of shared memory. This project required the use of semaphores, mutexes, and shared memory to adhere to a strict expected output to terminal.
+
 Compile with: gcc -Wall -o x Q1.c -lrt -lpthread
 
 ### Children
 
 Program that introduces the use of multiple processes. This project required the use of if statements to control and maintain records of children spawns and despawns. Correctness of the project was through strict expected outputs to terminal.
+
 Compile with: gcc -Wall children.c
