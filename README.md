@@ -14,4 +14,4 @@ Program that allowed the practice of multi-process managment with multiple inter
 
 ### Children
 
-Program that introduces the use of multiple processes. This project required the use of if statements to control and maintain records of children spawns and despawns. Correctness of the project was through strict expected outputs to terminal.
+Introduction program to multiple processes management. This project required diligent control and maintainence of records of children spawns and despawns. Correctness of the project was through a strict expected sequence of outputs to terminal.
